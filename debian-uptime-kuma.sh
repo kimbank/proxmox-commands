@@ -4,7 +4,7 @@ apt update && sudo apt upgrade -y
 apt install -y git
 
 # nodejs
-curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+curl -fsSL https://deb.nodesource.com/setup_lts.x | bash -
 apt install -y nodejs
 apt install -y npm
 
