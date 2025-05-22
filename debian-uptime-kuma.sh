@@ -24,7 +24,7 @@ echo
 
 
 cat <<EOF
-다음 단계 안내:
+[ Next Steps for Excute Uptime Kuma ]:
 
 # Option 1. Try it
 node server/server.js
