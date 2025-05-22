@@ -6,6 +6,7 @@ apt install -y git
 # nodejs
 curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 apt install -y nodejs
+apt install -y npm
 
 # pm2
 npm install pm2 -g && pm2 install pm2-logrotate
