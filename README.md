@@ -24,6 +24,12 @@ sudo timedatectl set-timezone Asia/Seoul
 sudo nano /etc/apt/sources.list.d/ubuntu.sources
 ```
 
+## [Ubuntu] add authorized ssh key
+
+```sh
+curl -s https://raw.githubusercontent.com/kimbank/proxmox-commands/main/ubuntu-add_authorized_ssh_key.sh | bash
+```
+
 ## [Debian] docker installation
 
 ```sh
