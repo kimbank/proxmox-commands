@@ -18,6 +18,12 @@ sudo apt update
 sudo timedatectl set-timezone Asia/Seoul
 ```
 
+## tip: HTTP -> HTTPS (Ubuntu)
+
+```sh
+sudo nano /etc/apt/sources.list.d/ubuntu.sources
+```
+
 ## [Debian] docker installation
 
 ```sh
