@@ -4,6 +4,14 @@ prerequisite
 
 - curl
 
+## tip: APT Cache Clean and Update (Ubuntu)
+
+```sh
+sudo rm -rf /var/lib/apt/lists/*
+sudo apt clean
+sudo apt update
+```
+
 ## [Debian] docker installation
 
 ```sh
