@@ -12,6 +12,12 @@ sudo apt clean
 sudo apt update
 ```
 
+## tip: Use KST Timezone (Ubuntu)
+
+```sh
+sudo timedatectl set-timezone Asia/Seoul
+```
+
 ## [Debian] docker installation
 
 ```sh
