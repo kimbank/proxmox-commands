@@ -48,6 +48,12 @@ curl -s https://raw.githubusercontent.com/kimbank/proxmox-commands/main/ubuntu-d
 curl -s https://raw.githubusercontent.com/kimbank/proxmox-commands/main/ubuntu-jdk17.sh | bash
 ```
 
+## [Ubuntu] Node.js (LTS)
+
+```sh
+curl -s https://raw.githubusercontent.com/kimbank/proxmox-commands/main/ubuntu-nodejs.sh | bash
+```
+
 ## [Debian] uptime kuma (non-docker)
 
 > https://github.com/louislam/uptime-kuma?tab=readme-ov-file#-non-docker
